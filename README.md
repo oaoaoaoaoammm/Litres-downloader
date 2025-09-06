@@ -52,8 +52,11 @@ https://www.litres.ru/static/or3/view/or.html?art_type=4&file=11111111&bname=...
 - Также его можно увидеть в самом URL запроса:
 [https://www.litres.ru/pages/get_pdf_page/?file=56990523&page=1&rt=w1900&ft=gif](https://www.litres.ru/pages/get_pdf_page/?file=56990523&page=1&rt=w1900&ft=gif)
 
+## 3. Запустите скрипт в командной строке:
 
-
+```bash
+python litres_downloader.py
+```
 
 
 
